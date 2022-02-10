@@ -1,0 +1,14 @@
+*.asm
+*.gb
+*.ihx
+*.lib
+*.lk
+*.lst
+*.map
+*.noi
+*.o
+*.rel
+*.sym
+lib/
+*.nes
+libjinput-linux64.so
